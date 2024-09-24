@@ -1,7 +1,7 @@
 package test;
 
 import movie.movie;
-import movie.movieItem;
+import Movie.movieItem;
 
 public class movieTest {
     public static void main(String[] args) {
